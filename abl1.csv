@@ -1,0 +1,9 @@
+Gene,Normal AA,Peptide Position,Mutation AA,Cancer Type,Level of Evidence,PMIDs
+ABL1,T,212,R,Chronic Myelocytic Leukemia,3,20519627
+ABL1,G,250,E,Chronic Myelocytic Leukemia,1,23190221
+ABL1,Q,252,H,Chronic Myelocytic Leukemia,3,19075254
+ABL1,Y,253,F,Chronic Myelocytic Leukemia,3,19075254
+ABL1,E,255,K,Chronic Myelocytic Leukemia,3,19075254
+ABL1,V,299,L,Chronic Myelocytic Leukemia,3,19075254
+ABL1,T,315,I,Chronic Myelocytic Leukemia,1,23190221
+
